@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Pizza Port",
+    "description": "Make pizza like a pro",
+    "link": "",
+    "img": {
+      "src": "/assets/images/project-web-design.png",
+      "alt": "Project Web Design"
+    },
+    "categories": ["Web Design", "Recipes"]
+  }
+]
